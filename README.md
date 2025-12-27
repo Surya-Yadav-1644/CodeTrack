@@ -8,6 +8,7 @@ CodeTrack enables users to create repositories, manage commits, track version hi
 This project highlights strong full-stack development skills, including API design, database modeling, and frontend-backend integration.
 
 🛠️ Tech Stack
+
 Frontend : React.js, JavaScript, HTML5, CSS3
 
 Backend : Node.js, Express.js
